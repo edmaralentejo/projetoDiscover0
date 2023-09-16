@@ -21,7 +21,7 @@ Estude esse projeto em formato de vídeo clicando aqui.
 <br>
 
 <p align="center">
-  <img src=".gitHub/preview.png"  alt="projeto DevLinks" width="100%">
+  <img src=".gitHub/profile.png"  alt="projeto DevLinks" width="100%">
 </p>
 
 ## 🚀 Tecnologias
